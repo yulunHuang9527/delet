@@ -1,1 +1,1 @@
-# delet
+# delete
